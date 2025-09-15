@@ -4504,16 +4504,16 @@
         },
         {
             "name": "drupal/drupal_cms_seo_tools",
-            "version": "1.2.3",
+            "version": "1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_seo_tools.git",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed"
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=e4ec846546508811aee256db264f2aaf1e2626ed",
-                "reference": "e4ec846546508811aee256db264f2aaf1e2626ed",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_seo_tools/repository/archive.zip?sha=4692e8e0e00a3bd50129358b540e568810f177d5",
+                "reference": "4692e8e0e00a3bd50129358b540e568810f177d5",
                 "shasum": ""
             },
             "require": {
@@ -4541,9 +4541,9 @@
             ],
             "description": "Adds common search engine optimisation tools such as meta tags, XML sitemap, robots.txt management and more.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.3"
+                "source": "https://git.drupalcode.org/project/drupal_cms_seo_tools/-/tree/1.2.5"
             },
-            "time": "2025-07-09T13:09:00+00:00"
+            "time": "2025-09-09T08:41:31+00:00"
         },
         {
             "name": "drupal/drupal_cms_starter",
@@ -5081,7 +5081,7 @@
         },
         {
             "name": "drupal/eca_ui",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "require": {
                 "drupal/core": "^11.2",
                 "drupal/eca": "*",
@@ -5090,8 +5090,8 @@
             "type": "metapackage",
             "extra": {
                 "drupal": {
-                    "version": "3.0.2",
-                    "datestamp": "1755341165",
+                    "version": "3.0.3",
+                    "datestamp": "1757505170",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
