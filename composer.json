@@ -42,6 +42,7 @@
         "drupal/drupal_cms_project": "^1.2",
         "drupal/drupal_cms_seo_tools": "^1.2",
         "drupal/drupal_cms_starter": "^1.2",
+        "drupal/entity_embed": "^1.7",
         "drupal/gemini_provider": "^1.0@beta",
         "drupal/media_gallery": "^3.2",
         "drupal/project_browser": "@beta",
