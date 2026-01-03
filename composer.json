@@ -45,6 +45,7 @@
         "drupal/entity_embed": "^1.7",
         "drupal/gemini_provider": "^1.0@beta",
         "drupal/media_gallery": "^3.2",
+        "drupal/media_library_bulk_upload": "^1.0",
         "drupal/project_browser": "@beta",
         "drupal/recipe_installer_kit": "^1-alpha6@alpha",
         "drupal/webform": "@beta",
