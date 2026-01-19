@@ -4154,16 +4154,16 @@
         },
         {
             "name": "drupal/drupal_cms_news",
-            "version": "1.2.8",
+            "version": "1.2.10",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_news.git",
-                "reference": "19e0d3d03888b473e8aaa75fc0bca4285c1b8da9"
+                "reference": "d8e0bf1a547b4d865611c1040b3e0e916c8d3fee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=19e0d3d03888b473e8aaa75fc0bca4285c1b8da9",
-                "reference": "19e0d3d03888b473e8aaa75fc0bca4285c1b8da9",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_news/repository/archive.zip?sha=d8e0bf1a547b4d865611c1040b3e0e916c8d3fee",
+                "reference": "d8e0bf1a547b4d865611c1040b3e0e916c8d3fee",
                 "shasum": ""
             },
             "require": {
@@ -4180,9 +4180,9 @@
             ],
             "description": "Adds a news content type and listing page.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.8"
+                "source": "https://git.drupalcode.org/project/drupal_cms_news/-/tree/1.2.10"
             },
-            "time": "2025-10-16T17:02:18+00:00"
+            "time": "2026-01-06T22:15:03+00:00"
         },
         {
             "name": "drupal/drupal_cms_olivero",
