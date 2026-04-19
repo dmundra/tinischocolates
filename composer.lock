@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4a8e7b8724bdaef72e67929813fb9388",
+    "content-hash": "6a9fe85149820614af225054974563b8",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -6791,68 +6791,6 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/menu_link_attributes",
                 "issues": "http://drupal.org/project/issues/menu_link_attributes"
-            }
-        },
-        {
-            "name": "drupal/metadata_sanitizer",
-            "version": "1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/metadata_sanitizer.git",
-                "reference": "1.1.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/metadata_sanitizer-1.1.0.zip",
-                "reference": "1.1.0",
-                "shasum": "03f05dc8aac2f220bb9c5b68b4c157c45ada9706"
-            },
-            "require": {
-                "drupal/core": "^10.3 || ^11",
-                "php": ">=8.1"
-            },
-            "require-dev": {
-                "drupal/ai": "*",
-                "drupal/ai_agents": "*",
-                "drupal/tool": "*"
-            },
-            "suggest": {
-                "drupal/ai": "Optional: required by the Metadata Sanitizer AI ecosystem integrations.",
-                "drupal/ai_agents": "Optional: required to enable the metadata_sanitizer_ai_agents submodule.",
-                "drupal/tool": "Optional: required to enable the metadata_sanitizer_tool_api submodule.",
-                "drush/drush": "Optional: required to run the bulk-clean Drush command (metadata_sanitizer:clean).",
-                "exiftool": "System binary required to strip metadata from files."
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "1.1.0",
-                    "datestamp": "1772407409",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Drupal\\metadata_sanitizer\\": "src/"
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "zarabatana",
-                    "homepage": "https://www.drupal.org/user/859226"
-                }
-            ],
-            "description": "Strips metadata from uploaded files using exiftool.",
-            "homepage": "https://www.drupal.org/project/metadata_sanitizer",
-            "support": {
-                "source": "https://git.drupalcode.org/project/metadata_sanitizer"
             }
         },
         {
