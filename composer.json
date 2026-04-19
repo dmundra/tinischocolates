@@ -48,6 +48,7 @@
         "drupal/media_library_bulk_upload": "^1.0",
         "drupal/project_browser": "@beta",
         "drupal/recipe_installer_kit": "^1-alpha6@alpha",
+        "drupal/tfa": "^1.12",
         "drupal/webform": "@beta",
         "drush/drush": "^13.6",
         "oomphinc/composer-installers-extender": "^2.0"
