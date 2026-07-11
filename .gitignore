@@ -56,3 +56,4 @@ libraries
 # Ignore recipes
 recipes/drupal_cms_*
 recipes/easy_email_*
+/autoload_runtime.php
