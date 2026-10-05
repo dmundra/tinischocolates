@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "238ec60e95e879c5d609a3ada237a662",
+    "content-hash": "d92e04b80e0427a32b0b865fdc32f8e4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4293,21 +4293,19 @@
         },
         {
             "name": "drupal/drupal_cms_accessibility_tools",
-            "version": "1.2.11",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools.git",
-                "reference": "45796ecbaf9321890847bfd1e81962b2145a19cd"
+                "reference": "25b0c2eecf1945ef0ed92d845785f800948c3ebe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=45796ecbaf9321890847bfd1e81962b2145a19cd",
-                "reference": "45796ecbaf9321890847bfd1e81962b2145a19cd",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_accessibility_tools/repository/archive.zip?sha=25b0c2eecf1945ef0ed92d845785f800948c3ebe",
+                "reference": "25b0c2eecf1945ef0ed92d845785f800948c3ebe",
                 "shasum": ""
             },
             "require": {
-                "drupal/core": "^10.3 || ^11",
-                "drupal/drupal_cms_page": "^1.2",
                 "drupal/editoria11y": "^2.2"
             },
             "type": "drupal-recipe",
@@ -4317,9 +4315,9 @@
             ],
             "description": "Adds automated checks to help ensure content conforms to web accessibility guidelines.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/1.2.11"
+                "source": "https://git.drupalcode.org/project/drupal_cms_accessibility_tools/-/tree/2.2.0"
             },
-            "time": "2026-01-19T21:41:22+00:00"
+            "time": "2026-09-25T18:09:39+00:00"
         },
         {
             "name": "drupal/drupal_cms_admin_ui",
