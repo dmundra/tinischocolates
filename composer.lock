@@ -4739,16 +4739,16 @@
         },
         {
             "name": "drupal/drupal_cms_google_analytics",
-            "version": "2.2.0",
+            "version": "2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/drupal_cms_google_analytics.git",
-                "reference": "948050cce09487be4956d6fd49b6330395be3e59"
+                "reference": "2a42204436332607f83637737e65cee935a5f611"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=948050cce09487be4956d6fd49b6330395be3e59",
-                "reference": "948050cce09487be4956d6fd49b6330395be3e59",
+                "url": "https://git.drupalcode.org/api/v4/projects/project%2Fdrupal_cms_google_analytics/repository/archive.zip?sha=2a42204436332607f83637737e65cee935a5f611",
+                "reference": "2a42204436332607f83637737e65cee935a5f611",
                 "shasum": ""
             },
             "require": {
@@ -4766,9 +4766,9 @@
             ],
             "description": "Adds tracking of website traffic using Google Analytics and Google Tag Manager. Requires a Google Tag Manager ID.",
             "support": {
-                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.2.0"
+                "source": "https://git.drupalcode.org/project/drupal_cms_google_analytics/-/tree/2.2.3"
             },
-            "time": "2026-09-25T18:09:39+00:00"
+            "time": "2026-10-07T07:52:10+00:00"
         },
         {
             "name": "drupal/drupal_cms_helper",
